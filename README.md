@@ -21,6 +21,7 @@ You should be able to build and run these projects as they are console based app
 | 4      | [Largest palindrome product](https://github.com/duliodenis/Project-Euler/tree/master/problem-04) | 
 | 5      | [Smallest multiple](https://github.com/duliodenis/Project-Euler/tree/master/problem-05) | 
 | 6      | [Sum square difference](https://github.com/duliodenis/Project-Euler/tree/master/problem-06) | 
+| 7      | [10001st prime](https://github.com/duliodenis/Project-Euler/tree/master/problem-07) | 
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
