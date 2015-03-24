@@ -8,5 +8,8 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 Find the sum of all the multiples of 3 or 5 below 1000.
 
+###Objective-C and Swift Solutions
+I have the solution to this project in both Objective-C in the problem01 project as well as in Swift in the Problem01.playground file.
+
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
