@@ -22,6 +22,7 @@ You should be able to build and run these projects as they are console based app
 | 5      | [Smallest multiple](https://github.com/duliodenis/Project-Euler/tree/master/problem-05) | 
 | 6      | [Sum square difference](https://github.com/duliodenis/Project-Euler/tree/master/problem-06) | 
 | 7      | [10001st prime](https://github.com/duliodenis/Project-Euler/tree/master/problem-07) | 
+| 8      | [Largest Product in a Series](https://github.com/duliodenis/Project-Euler/tree/master/problem-08) | 
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
